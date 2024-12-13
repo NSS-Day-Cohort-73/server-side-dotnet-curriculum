@@ -9,8 +9,8 @@ In this self-assessment, you will be working on a console application named "Bra
 > 🧨 At any point during development, you can run the `dotnet test` command in your terminal to run the suite of tests for this program and see how you're doing.
 
 ### Create the Project
-1. Request the Github Classroom link for the assignment from your instructor.
-1. Clone your new repo that Github classroom created to your local computer and open it in VS Code.
+1. Click `Start Self-Assessment` in the Learning Platform to request the GitHub link. The new repository link will be sent to you via Slack.
+1. Clone your new repo to your local computer and open it in VS Code.
 1. For the rest of these instructions, the files will be referring to files inside the `BrassAndPoem` folder. You can look at the `BrassAndPoem.Tests` folder if you wish, but you do not need to modify any code there. 
 
 ## `Console.Clear` and `Console.ReadKey`
